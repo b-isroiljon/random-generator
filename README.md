@@ -5,4 +5,4 @@
 >- CSS
 >- JS
 ---
-### *[To watch click here!]( https://b-isroiljon.github.io/random-generator/)*r
+### [To watch click here!]( https://b-isroiljon.github.io/random-generator/)
