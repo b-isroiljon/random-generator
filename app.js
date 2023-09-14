@@ -47,8 +47,6 @@ btnEl.addEventListener('click', generate);
 
 
 
-
-
 // let ism = 'Bor\'uev';
 // console.log(ism);
 
